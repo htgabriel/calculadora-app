@@ -1,6 +1,5 @@
 import React, {useState} from 'react'
-import {Text, View, FlatList, StyleSheet, Platform, TouchableOpacity} from "react-native";
-import { Icon } from 'react-native-elements'
+import {Text, View, StyleSheet} from "react-native";
 import Button from "./src/components/Button";
 
 function App(){
