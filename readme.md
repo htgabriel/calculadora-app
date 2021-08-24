@@ -1,4 +1,4 @@
-#CalculatorApp
+<h1>CalculatorApp</h1>
 
 
 Aplicativo criado utilizando <code>Expo</code> e <code>React Native</code> para a criação de portifólio.
